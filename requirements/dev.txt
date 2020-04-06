@@ -11,6 +11,7 @@ Flask-Migrate
 Flask-Cors
 marshmallow
 flask_apispec
+psycopg2
 
 
 # Testing

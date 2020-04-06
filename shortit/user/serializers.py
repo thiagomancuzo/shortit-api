@@ -17,6 +17,7 @@ class UserSchema(Schema):
 
     @pre_load
     def make_user(self, data, **kwargs):
+        data = data['user']
         # some of the frontends send this like an empty string and some send
         # null
         if not data.get('email', True):
