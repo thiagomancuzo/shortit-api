@@ -1,12 +1,10 @@
-# short.it
+# short.it (under construction...)
 
 It's an url shortener tool, composed by 3 applications:
 
 1. shortit-api (this project)
 2. shortit-management (coming soon)
 3. shortit-redirector (coming soon)
-
-This project is currently under contruction. Updates will directly reflect on this documentation!
 
 ## Quick Start
 
@@ -37,4 +35,5 @@ and finally, running
 flask run
 ```
 
+This project is currently under contruction. Updates will directly reflect on this documentation!
 See you =D
