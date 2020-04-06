@@ -1,3 +1,5 @@
+[[__TOC__]]
+
 # short.it (under construction...)
 
 It's an url shortener tool, composed by 3 applications:
@@ -35,5 +37,5 @@ and finally, running
 flask run
 ```
 
-This project is currently under contruction. Updates will directly reflect on this documentation!
+This project is currently under contruction. Updates will directly reflect on this documentation!  
 See you =D
