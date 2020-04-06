@@ -1,5 +1,3 @@
-[[__TOC__]]
-
 # short.it (under construction...)
 
 It's an url shortener tool, composed by 3 applications:
