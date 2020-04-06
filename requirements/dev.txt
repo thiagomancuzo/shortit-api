@@ -1,0 +1,21 @@
+# Everything needed in production
+
+Flask==1.1.2
+SQLAlchemy
+Flask_Caching
+Flask_SQLAlchemy
+Flask_Bcrypt
+PyJWT
+Flask-JWT-Extended
+Flask-Migrate
+Flask-Cors
+marshmallow
+flask_apispec
+
+
+# Testing
+pytest
+WebTest
+factory-boy
+# For python 3
+Faker
