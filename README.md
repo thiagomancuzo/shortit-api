@@ -2,7 +2,7 @@
 
 It's an url shortener tool, composed by 3 applications:
 
-1. shortit-api (this project)
+1. shortit-api **<- you're here**
 2. shortit-management (coming soon)
 3. shortit-redirector (coming soon)
 
