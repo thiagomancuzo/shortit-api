@@ -1,4 +1,4 @@
-# sort.it
+# short.it
 
 It's an url shortener tool, composed by 3 applications:
 
