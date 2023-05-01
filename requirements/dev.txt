@@ -1,6 +1,6 @@
 # Everything needed in production
 
-Flask==1.1.2
+Flask==2.3.2
 SQLAlchemy
 Flask_Caching
 Flask_SQLAlchemy
